@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\formui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:formui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\ui_edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_edit_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_edit_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|c:\\users\\timur\\documents\\software_engineering_project\\tcc_app\\ui_usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E91D3-79B3-4EBA-BE43-34DF9F9D1FB7}|TCC_App.csproj|solutionrelative:ui_usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Profile.cs",
+              "RelativeDocumentMoniker": "UI_Profile.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Profile.cs",
+              "RelativeToolTip": "UI_Profile.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:35:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Profile.cs",
+              "RelativeDocumentMoniker": "UI_Profile.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Profile.cs [Design]",
+              "RelativeToolTip": "UI_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:35:38.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:31:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI_Edit_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.cs",
+              "RelativeDocumentMoniker": "UI_Edit_Profile.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.cs",
+              "RelativeToolTip": "UI_Edit_Profile.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wDUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:26:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Main.cs",
+              "RelativeDocumentMoniker": "UI_Main.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Main.cs [Design]",
+              "RelativeToolTip": "UI_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:25:20.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI_Main.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Main.cs",
+              "RelativeDocumentMoniker": "UI_Main.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Main.cs",
+              "RelativeToolTip": "UI_Main.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwC8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:25:32.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUI.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\FormUI.cs",
+              "RelativeDocumentMoniker": "FormUI.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\FormUI.cs",
+              "RelativeToolTip": "FormUI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:38:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI_NavigationBar.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_NavigationBar.cs",
+              "RelativeDocumentMoniker": "UI_NavigationBar.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_NavigationBar.cs",
+              "RelativeToolTip": "UI_NavigationBar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:11:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI_Edit_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.cs",
+              "RelativeDocumentMoniker": "UI_Edit_Profile.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.cs [Design]",
+              "RelativeToolTip": "UI_Edit_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:26:02.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UI_Edit_Profile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Edit_Profile.Designer.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Edit_Profile.Designer.cs",
+              "RelativeToolTip": "UI_Edit_Profile.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:27:26.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI_UserSearch.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_UserSearch.cs",
+              "RelativeDocumentMoniker": "UI_UserSearch.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_UserSearch.cs",
+              "RelativeToolTip": "UI_UserSearch.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:15:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI_Login.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Login.cs",
+              "RelativeDocumentMoniker": "UI_Login.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Login.cs",
+              "RelativeToolTip": "UI_Login.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:43:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "AddUserControl.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\AddUserControl.cs",
+              "RelativeToolTip": "AddUserControl.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:44:01.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Admin.cs",
+              "RelativeDocumentMoniker": "UI_Admin.cs",
+              "ToolTip": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Admin.cs",
+              "RelativeToolTip": "UI_Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:05:42.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\timur\\Documents\\software_engineering_project\\TCC_App\\UI_Login.cs",
+              "RelativeDocumentMoniker": "UI_Login.cs",
+              "ToolTip": "C:\\Users\\rusho\\Desktop\\software_engineering_project-main\\TCC_App\\UI_Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\rusho\\Desktop\\software_engineering_project-main\\TCC_App\\UI_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:35:48.728Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="test_conForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_Edit_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_EventInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_EventSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_NavigationBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_UserSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ViewAdminRequests.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewCurrentVisitors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewFeedbackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewUserTags.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

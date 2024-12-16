@@ -1,0 +1,520 @@
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.placeholder.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\hmgm\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.placeholder.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+D:\Development\Yusef D\resource\TCC_App\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.placeholder.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\brota\OneDrive\Desktop\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CopyComplete
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\Elliot\OneDrive\Documents\GitHub\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.sourcelink.json
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\timur\Downloads\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
+C:\Users\rusho\Desktop\software_engineering_project-main\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Login.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.AssemblyReference.cache
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.AddUserControl.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.FormUI.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.Properties.Resources.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.RemoveUserControl.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.test_conForm.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Admin.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Edit_Profile.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventInformation.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_EventSearch.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Login.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_MainPage.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_NavigationBar.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_Profile.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.UI_UserSearch.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewAdminRequests.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewCurrentVisitorControl.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewFeedbackControl.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\CRMApplication.ViewUserTagControl.resources
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.GenerateResource.cache
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfoInputs.cache
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.AssemblyInfo.cs
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.CoreCompileInputs.cache
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.sourcelink.json
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\refint\TCC_App.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.exe
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll.config
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.deps.json
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.runtimeconfig.json
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\TCC_App.pdb
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.csproj.Up2Date
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\TCC_App.genruntimeconfig.cache
+C:\Users\timur\Documents\software_engineering_project\TCC_App\obj\Debug\net6.0-windows\ref\TCC_App.dll
